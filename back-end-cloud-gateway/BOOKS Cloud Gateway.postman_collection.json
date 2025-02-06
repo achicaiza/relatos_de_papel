@@ -1,0 +1,92 @@
+{
+	"info": {
+		"_postman_id": "0b5f6c33-b481-4a9b-bfb3-c80ac1c32961",
+		"name": "BOOKS Cloud Gateway",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "SQL",
+			"item": [
+				{
+					"name": "Obtener libros H2",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8763/ms-books-catalogue/books",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8763",
+							"path": [
+								"ms-books-catalogue",
+								"books"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Crear un orden proxy inverso",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"targetMethod\": \"POST\",\n    \"body\": {\n        \"books\": [\n            \"3\"\n        ]\n    }\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:8764/ms-books-payments/orders",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8764",
+							"path": [
+								"ms-books-payments",
+								"orders"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Obtener libros proxy inverso",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"targetMethod\": \"GET\",\n    \"queryParams\": {\n        \"visibility\": [\n            true\n        ]\n    }\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:8764/ms-books-catalogue/books",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8764",
+							"path": [
+								"ms-books-catalogue",
+								"books"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}

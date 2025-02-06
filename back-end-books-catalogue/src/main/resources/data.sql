@@ -1,0 +1,1 @@
+INSERT INTO books(title, author, category, rating, isbn, stock, date_published, visibility) values ('Test', 'test', 'test', 1.3, 'test', 2,  '1989-10-10', true)
