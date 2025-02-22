@@ -2,6 +2,7 @@ package com.unir.orders.facade.model;
 
 import lombok.*;
 
+import java.math.BigDecimal;
 import java.util.Date;
 
 @Getter
@@ -20,5 +21,6 @@ public class Book {
     private Integer stock;
     private Date datePublished;
     private Boolean visibility;
+    private BigDecimal price;
 
 }

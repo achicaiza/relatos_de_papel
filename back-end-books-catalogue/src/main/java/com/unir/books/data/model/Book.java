@@ -5,6 +5,7 @@ import com.unir.books.data.utils.Consts;
 import jakarta.persistence.*;
 import lombok.*;
 
+import java.math.BigDecimal;
 import java.util.Date;
 
 @Entity
@@ -45,6 +46,9 @@ public class Book {
     @Column(name = Consts.VISIBILITY)
     private Boolean visibility;
 
+    @Column(name = Consts.PRICE)
+    private BigDecimal price;
+
     public void update(BookDto bookDto) {
         this.title = bookDto.getTitle();
         this.author = bookDto.getAuthor();
@@ -54,6 +58,7 @@ public class Book {
         this.stock = bookDto.getStock();
         this.datePublished = bookDto.getDatePublished();
         this.visibility = bookDto.getVisibility();
+        this.price = bookDto.getPrice();
     }
 
 }

@@ -1,1 +1,1 @@
-INSERT INTO books(title, author, category, rating, isbn, stock, date_published, visibility) values ('Test', 'test', 'test', 1.3, 'test', 2,  '1989-10-10', true)
+INSERT INTO books(title, author, category, rating, isbn, stock, date_published, visibility, price) values ('El principito', 'Carlos Suarez', 'Aventura', 1.3, 'test', 2,  '1989-10-10', true, 12.12)

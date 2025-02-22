@@ -3,6 +3,7 @@ package com.unir.orders.data.model;
 import jakarta.persistence.*;
 import lombok.*;
 
+import java.math.BigDecimal;
 import java.util.List;
 
 @Entity
@@ -22,4 +23,7 @@ public class Order {
     @ElementCollection
     @Column(name = "books")
     private List<Long> books;
+
+    @Column(name="total")
+    private BigDecimal total;
 }

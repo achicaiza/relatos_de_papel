@@ -67,12 +67,14 @@ public class BooksServiceImpl implements BooksService {
                 && StringUtils.hasLength(request.getIsbn().trim())
                 && request.getRating() != null
                 && request.getDatePublished() != null
+                && request.getPrice() != null
                 && request.getVisibility() != null) {
 
             Book product = Book.builder().title(request.getTitle()).author(request.getAuthor())
                     .isbn(request.getIsbn()).rating(request.getRating())
                     .stock(request.getStock())
                     .datePublished(request.getDatePublished())
+                    .price(request.getPrice())
                     .category(request.getCategory()).visibility(request.getVisibility()).build();
 
             return repository.save(product);

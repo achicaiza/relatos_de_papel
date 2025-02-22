@@ -8,6 +8,7 @@ import com.unir.orders.facade.model.Book;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
+import java.math.BigDecimal;
 import java.util.List;
 import java.util.Objects;
 import java.util.stream.Collectors;
@@ -33,7 +34,8 @@ public class OrdersServiceImpl implements OrdersService {
         ) {
             return null;
         } else {
-            Order order = Order.builder().books(books.stream().map(Book::getId).collect(Collectors.toList())).build();
+            Order order = Order.builder().total(books.stream().map(Book::getPrice).reduce(BigDecimal.ZERO, BigDecimal::add))
+                    .books(books.stream().map(Book::getId).collect(Collectors.toList())).build();
             repository.save(order);
             return order;
         }
