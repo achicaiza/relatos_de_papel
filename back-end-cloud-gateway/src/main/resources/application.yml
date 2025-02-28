@@ -1,5 +1,5 @@
 server:
-  port: ${PORT:8763}
+  port: ${PORT:8764}
         
 ## Classic Eureka configuration
 eureka:

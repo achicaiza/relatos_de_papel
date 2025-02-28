@@ -1,0 +1,400 @@
+{"index":{"_index":"books"}}
+{"title":"El Programador Pragmático 0","author":"Andrew Ng","category":"Programación","description":"El Programador Pragmático 0 por Andrew Ng - Un libro completo sobre programación.","isbn":"7668426708965","rating":4.3,"price":120.82,"stock":69,"datePublished":"2022-06-13T14:36:35.321Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"No Conoces JS 1","author":"Robert C. Martin","category":"Matemáticas","description":"No Conoces JS 1 por Robert C. Martin - Un libro completo sobre matemáticas.","isbn":"7138430509205","rating":3.2,"price":117.58,"stock":42,"datePublished":"2018-09-09T14:36:35.321Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"El Hombre-Mes Mítico 2","author":"Kent Beck","category":"Ingeniería de Software","description":"El Hombre-Mes Mítico 2 por Kent Beck - Un libro completo sobre ingeniería de software.","isbn":"2684960110456","rating":4.2,"price":44.42,"stock":26,"datePublished":"2018-03-02T14:36:35.321Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"El Programador Pragmático 3","author":"Andrew Hunt","category":"Aprendizaje Automático","description":"El Programador Pragmático 3 por Andrew Hunt - Un libro completo sobre aprendizaje automático.","isbn":"8352554723956","rating":4.0,"price":114.85,"stock":70,"datePublished":"2022-07-18T14:36:35.321Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"Redes de Computadoras: Un Enfoque de Arriba hacia Abajo 4","author":"Donald Knuth","category":"Algoritmos","description":"Redes de Computadoras: Un Enfoque de Arriba hacia Abajo 4 por Donald Knuth - Un libro completo sobre algoritmos.","isbn":"9914766953762","rating":4.8,"price":71.55,"stock":21,"datePublished":"2018-05-15T14:36:35.321Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"Inteligencia Artificial: Una Guía para Humanos Pensantes 5","author":"Joel Grus","category":"Ciberseguridad","description":"Inteligencia Artificial: Una Guía para Humanos Pensantes 5 por Joel Grus - Un libro completo sobre ciberseguridad.","isbn":"2536943971385","rating":4.2,"price":20.05,"stock":14,"datePublished":"2023-09-18T14:36:35.321Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"Aprendizaje Profundo 6","author":"Eric Matthes","category":"Redes","description":"Aprendizaje Profundo 6 por Eric Matthes - Un libro completo sobre redes.","isbn":"1481342572608","rating":4.8,"price":126.56,"stock":71,"datePublished":"2018-02-10T14:36:35.321Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"El Lenguaje de Programación C 7","author":"Douglas Crockford","category":"Redes","description":"El Lenguaje de Programación C 7 por Douglas Crockford - Un libro completo sobre redes.","isbn":"7488989684866","rating":3.3,"price":131.81,"stock":72,"datePublished":"2023-07-07T14:36:35.321Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"Los Elementos del Aprendizaje Estadístico 8","author":"Robert C. Martin","category":"Ciencias de la Computación","description":"Los Elementos del Aprendizaje Estadístico 8 por Robert C. Martin - Un libro completo sobre ciencias de la computación.","isbn":"4909705555351","rating":3.6,"price":111.25,"stock":24,"datePublished":"2023-05-10T14:36:35.321Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"Aplicaciones Intensivas en Datos 9","author":"Trevor Hastie","category":"Ciencia de Datos","description":"Aplicaciones Intensivas en Datos 9 por Trevor Hastie - Un libro completo sobre ciencia de datos.","isbn":"7089176956052","rating":4.1,"price":108.77,"stock":46,"datePublished":"2018-09-09T14:36:35.321Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"El Programador Pragmático 10","author":"Steve McConnell","category":"Ciencias de la Computación","description":"El Programador Pragmático 10 por Steve McConnell - Un libro completo sobre ciencias de la computación.","isbn":"7919225372453","rating":3.9,"price":131.55,"stock":47,"datePublished":"2021-03-30T14:36:35.321Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"El Manual de Diseño de Algoritmos 11","author":"Steven Skiena","category":"Algoritmos","description":"El Manual de Diseño de Algoritmos 11 por Steven Skiena - Un libro completo sobre algoritmos.","isbn":"7667541273860","rating":3.6,"price":121.32,"stock":16,"datePublished":"2017-06-04T14:36:35.321Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"Anhelo de Aprendizaje Automático 12","author":"Robert C. Martin","category":"Ingeniería de Software","description":"Anhelo de Aprendizaje Automático 12 por Robert C. Martin - Un libro completo sobre ingeniería de software.","isbn":"3327781266993","rating":4.1,"price":143.4,"stock":29,"datePublished":"2016-05-05T14:36:35.321Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"Los Elementos del Aprendizaje Estadístico 13","author":"Keith Ross","category":"Bases de Datos","description":"Los Elementos del Aprendizaje Estadístico 13 por Keith Ross - Un libro completo sobre bases de datos.","isbn":"8097180856990","rating":4.4,"price":147.24,"stock":62,"datePublished":"2018-01-02T14:36:35.321Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"Refactorización 14","author":"Michael Sipser","category":"Ciencia de Datos","description":"Refactorización 14 por Michael Sipser - Un libro completo sobre ciencia de datos.","isbn":"7668465206795","rating":3.7,"price":86.04,"stock":39,"datePublished":"2020-09-24T14:36:35.321Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"Código Completo 15","author":"Keith Ross","category":"Inteligencia Artificial","description":"Código Completo 15 por Keith Ross - Un libro completo sobre inteligencia artificial.","isbn":"1680366136945","rating":3.5,"price":116.4,"stock":11,"datePublished":"2019-06-06T14:36:35.321Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"El Arte de la Programación de Computadoras 16","author":"Yoshua Bengio","category":"Ciencias de la Computación","description":"El Arte de la Programación de Computadoras 16 por Yoshua Bengio - Un libro completo sobre ciencias de la computación.","isbn":"4786601154143","rating":3.0,"price":26.95,"stock":38,"datePublished":"2017-05-05T14:36:35.321Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"El Programador Limpio 17","author":"Robert C. Martin","category":"Programación","description":"El Programador Limpio 17 por Robert C. Martin - Un libro completo sobre programación.","isbn":"9165549994828","rating":4.0,"price":139.28,"stock":75,"datePublished":"2024-04-04T14:36:35.321Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"El Hombre-Mes Mítico 18","author":"Kent Beck","category":"Aprendizaje Automático","description":"El Hombre-Mes Mítico 18 por Kent Beck - Un libro completo sobre aprendizaje automático.","isbn":"6800513429071","rating":4.8,"price":29.12,"stock":92,"datePublished":"2019-04-11T14:36:35.321Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"Estructura e Interpretación de Programas de Computadora 19","author":"Trevor Hastie","category":"Ciberseguridad","description":"Estructura e Interpretación de Programas de Computadora 19 por Trevor Hastie - Un libro completo sobre ciberseguridad.","isbn":"9693940751884","rating":4.1,"price":63.82,"stock":58,"datePublished":"2015-07-29T14:36:35.321Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"Los Elementos del Aprendizaje Estadístico 20","author":"Eric Matthes","category":"Redes","description":"Los Elementos del Aprendizaje Estadístico 20 por Eric Matthes - Un libro completo sobre redes.","isbn":"8813888280226","rating":4.9,"price":138.24,"stock":81,"datePublished":"2018-02-28T14:36:35.321Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"El Lenguaje de Programación C 21","author":"Dennis Ritchie","category":"Redes","description":"El Lenguaje de Programación C 21 por Dennis Ritchie - Un libro completo sobre redes.","isbn":"2412104050680","rating":3.4,"price":35.6,"stock":81,"datePublished":"2018-09-09T14:36:35.321Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"Aprendizaje Profundo 22","author":"Yoshua Bengio","category":"Ciencia de Datos","description":"Aprendizaje Profundo 22 por Yoshua Bengio - Un libro completo sobre ciencia de datos.","isbn":"6862294232684","rating":3.6,"price":33.62,"stock":86,"datePublished":"2020-07-18T14:36:35.321Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"Estructura e Interpretación de Programas de Computadora 23","author":"Joel Grus","category":"Aprendizaje Automático","description":"Estructura e Interpretación de Programas de Computadora 23 por Joel Grus - Un libro completo sobre aprendizaje automático.","isbn":"4108417436428","rating":4.8,"price":80.02,"stock":76,"datePublished":"2021-03-13T14:36:35.321Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"Código Completo 24","author":"Yoshua Bengio","category":"Ciberseguridad","description":"Código Completo 24 por Yoshua Bengio - Un libro completo sobre ciberseguridad.","isbn":"4552738261461","rating":4.0,"price":139.97,"stock":38,"datePublished":"2023-11-22T14:36:35.321Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"El Arte de la Programación de Computadoras 25","author":"Donald Knuth","category":"Algoritmos","description":"El Arte de la Programación de Computadoras 25 por Donald Knuth - Un libro completo sobre algoritmos.","isbn":"1709313567532","rating":4.8,"price":48.78,"stock":22,"datePublished":"2024-04-13T14:36:35.321Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"Ciencia de Datos desde Cero 26","author":"Martin Kleppmann","category":"Redes","description":"Ciencia de Datos desde Cero 26 por Martin Kleppmann - Un libro completo sobre redes.","isbn":"7903916592643","rating":3.8,"price":52.79,"stock":52,"datePublished":"2023-05-06T14:36:35.321Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"Curso Intensivo de Python 27","author":"Douglas Crockford","category":"Bases de Datos","description":"Curso Intensivo de Python 27 por Douglas Crockford - Un libro completo sobre bases de datos.","isbn":"3531174849830","rating":3.3,"price":56.25,"stock":12,"datePublished":"2023-04-09T14:36:35.321Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"Introducción a la Teoría de la Computación 28","author":"Ian Goodfellow","category":"Ciberseguridad","description":"Introducción a la Teoría de la Computación 28 por Ian Goodfellow - Un libro completo sobre ciberseguridad.","isbn":"8708434105023","rating":3.5,"price":115.03,"stock":90,"datePublished":"2018-02-28T14:36:35.321Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"El Programador Pragmático 29","author":"Martin Kleppmann","category":"Ingeniería de Software","description":"El Programador Pragmático 29 por Martin Kleppmann - Un libro completo sobre ingeniería de software.","isbn":"8735969659690","rating":3.8,"price":105.25,"stock":66,"datePublished":"2022-08-25T14:36:35.321Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"El Hombre-Mes Mítico 30","author":"Yoshua Bengio","category":"Redes","description":"El Hombre-Mes Mítico 30 por Yoshua Bengio - Un libro completo sobre redes.","isbn":"5654398871096","rating":3.7,"price":123.77,"stock":82,"datePublished":"2019-11-26T14:36:35.321Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"Código Completo 31","author":"Ian Goodfellow","category":"Matemáticas","description":"Código Completo 31 por Ian Goodfellow - Un libro completo sobre matemáticas.","isbn":"5746016151240","rating":3.3,"price":136.27,"stock":53,"datePublished":"2015-03-21T14:36:35.321Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"El Lenguaje de Programación C 32","author":"Frederick P. Brooks Jr.","category":"Redes","description":"El Lenguaje de Programación C 32 por Frederick P. Brooks Jr. - Un libro completo sobre redes.","isbn":"5349994124783","rating":3.5,"price":14.51,"stock":13,"datePublished":"2022-09-07T14:36:35.321Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"Aplicaciones Intensivas en Datos 33","author":"Robert C. Martin","category":"Algoritmos","description":"Aplicaciones Intensivas en Datos 33 por Robert C. Martin - Un libro completo sobre algoritmos.","isbn":"2754942480690","rating":4.5,"price":42.28,"stock":24,"datePublished":"2018-03-18T14:36:35.321Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"Redes de Computadoras: Un Enfoque de Arriba hacia Abajo 34","author":"Michael Sipser","category":"Aprendizaje Automático","description":"Redes de Computadoras: Un Enfoque de Arriba hacia Abajo 34 por Michael Sipser - Un libro completo sobre aprendizaje automático.","isbn":"9227205603530","rating":3.4,"price":142.14,"stock":92,"datePublished":"2021-05-08T14:36:35.321Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"Refactorización 35","author":"Steve McConnell","category":"Redes","description":"Refactorización 35 por Steve McConnell - Un libro completo sobre redes.","isbn":"2132785377605","rating":3.3,"price":102.34,"stock":26,"datePublished":"2021-02-02T14:36:35.321Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"Inteligencia Artificial: Una Guía para Humanos Pensantes 36","author":"Donald Knuth","category":"Ciencia de Datos","description":"Inteligencia Artificial: Una Guía para Humanos Pensantes 36 por Donald Knuth - Un libro completo sobre ciencia de datos.","isbn":"7001971382780","rating":4.1,"price":113.99,"stock":19,"datePublished":"2021-01-12T14:36:35.321Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"Ciencia de Datos desde Cero 37","author":"Douglas Crockford","category":"Redes","description":"Ciencia de Datos desde Cero 37 por Douglas Crockford - Un libro completo sobre redes.","isbn":"8056989893146","rating":3.4,"price":43.12,"stock":14,"datePublished":"2021-04-10T14:36:35.321Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"Refactorización 38","author":"Robert C. Martin","category":"Ciberseguridad","description":"Refactorización 38 por Robert C. Martin - Un libro completo sobre ciberseguridad.","isbn":"9061131153895","rating":3.4,"price":133.04,"stock":53,"datePublished":"2017-06-24T14:36:35.321Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"Anhelo de Aprendizaje Automático 39","author":"Steve McConnell","category":"Bases de Datos","description":"Anhelo de Aprendizaje Automático 39 por Steve McConnell - Un libro completo sobre bases de datos.","isbn":"1526844029561","rating":5.0,"price":63.84,"stock":11,"datePublished":"2022-01-07T14:36:35.321Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"Código Completo 40","author":"Steve McConnell","category":"Ciencias de la Computación","description":"Código Completo 40 por Steve McConnell - Un libro completo sobre ciencias de la computación.","isbn":"8955144295570","rating":4.9,"price":79.83,"stock":17,"datePublished":"2022-06-15T14:36:35.321Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"No Conoces JS 41","author":"Dennis Ritchie","category":"Ciencias de la Computación","description":"No Conoces JS 41 por Dennis Ritchie - Un libro completo sobre ciencias de la computación.","isbn":"6958860772563","rating":4.7,"price":41.89,"stock":25,"datePublished":"2019-04-29T14:36:35.321Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"Redes de Computadoras: Un Enfoque de Arriba hacia Abajo 42","author":"Kent Beck","category":"Bases de Datos","description":"Redes de Computadoras: Un Enfoque de Arriba hacia Abajo 42 por Kent Beck - Un libro completo sobre bases de datos.","isbn":"7536039329960","rating":3.4,"price":30.06,"stock":76,"datePublished":"2025-02-09T14:36:35.322Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"Curso Intensivo de Python 43","author":"Eric Matthes","category":"Inteligencia Artificial","description":"Curso Intensivo de Python 43 por Eric Matthes - Un libro completo sobre inteligencia artificial.","isbn":"4089531323119","rating":3.7,"price":107.02,"stock":67,"datePublished":"2017-09-26T14:36:35.322Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"Los Elementos del Aprendizaje Estadístico 44","author":"Brian Kernighan","category":"Redes","description":"Los Elementos del Aprendizaje Estadístico 44 por Brian Kernighan - Un libro completo sobre redes.","isbn":"7273600408791","rating":4.5,"price":90.7,"stock":51,"datePublished":"2015-07-16T14:36:35.322Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"Aplicaciones Intensivas en Datos 45","author":"Steven Skiena","category":"Inteligencia Artificial","description":"Aplicaciones Intensivas en Datos 45 por Steven Skiena - Un libro completo sobre inteligencia artificial.","isbn":"1811306777036","rating":4.8,"price":124.47,"stock":82,"datePublished":"2016-06-23T14:36:35.322Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"Los Elementos del Aprendizaje Estadístico 46","author":"Douglas Crockford","category":"Ciberseguridad","description":"Los Elementos del Aprendizaje Estadístico 46 por Douglas Crockford - Un libro completo sobre ciberseguridad.","isbn":"9811137875561","rating":3.3,"price":17.37,"stock":9,"datePublished":"2025-01-22T14:36:35.322Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"Inteligencia Artificial: Una Guía para Humanos Pensantes 47","author":"Ian Goodfellow","category":"Inteligencia Artificial","description":"Inteligencia Artificial: Una Guía para Humanos Pensantes 47 por Ian Goodfellow - Un libro completo sobre inteligencia artificial.","isbn":"8504058696531","rating":3.5,"price":108.75,"stock":53,"datePublished":"2018-01-17T14:36:35.322Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"Inteligencia Artificial: Una Guía para Humanos Pensantes 48","author":"Keith Ross","category":"Algoritmos","description":"Inteligencia Artificial: Una Guía para Humanos Pensantes 48 por Keith Ross - Un libro completo sobre algoritmos.","isbn":"8554601310434","rating":4.4,"price":74.5,"stock":60,"datePublished":"2021-05-17T14:36:35.322Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"Refactorización 49","author":"Douglas Crockford","category":"Redes","description":"Refactorización 49 por Douglas Crockford - Un libro completo sobre redes.","isbn":"2441946756172","rating":3.6,"price":137.0,"stock":52,"datePublished":"2020-01-13T14:36:35.322Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"El Programador Limpio 50","author":"Steve McConnell","category":"Redes","description":"El Programador Limpio 50 por Steve McConnell - Un libro completo sobre redes.","isbn":"4824196824995","rating":3.4,"price":94.4,"stock":31,"datePublished":"2021-05-03T14:36:35.322Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"Código Limpio 51","author":"Brian Kernighan","category":"Ingeniería de Software","description":"Código Limpio 51 por Brian Kernighan - Un libro completo sobre ingeniería de software.","isbn":"7348329014897","rating":3.0,"price":101.99,"stock":20,"datePublished":"2016-11-25T14:36:35.322Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"Inteligencia Artificial: Una Guía para Humanos Pensantes 52","author":"Frederick P. Brooks Jr.","category":"Inteligencia Artificial","description":"Inteligencia Artificial: Una Guía para Humanos Pensantes 52 por Frederick P. Brooks Jr. - Un libro completo sobre inteligencia artificial.","isbn":"6595022259800","rating":3.5,"price":17.31,"stock":32,"datePublished":"2021-07-30T14:36:35.322Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"El Manual de Diseño de Algoritmos 53","author":"Donald Knuth","category":"Redes","description":"El Manual de Diseño de Algoritmos 53 por Donald Knuth - Un libro completo sobre redes.","isbn":"1308721814799","rating":5.0,"price":119.54,"stock":61,"datePublished":"2024-07-22T14:36:35.322Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"El Manual de Diseño de Algoritmos 54","author":"Andrew Ng","category":"Inteligencia Artificial","description":"El Manual de Diseño de Algoritmos 54 por Andrew Ng - Un libro completo sobre inteligencia artificial.","isbn":"7005567375316","rating":4.7,"price":43.95,"stock":48,"datePublished":"2022-10-26T14:36:35.322Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"Anhelo de Aprendizaje Automático 55","author":"Andrew Hunt","category":"Ciencia de Datos","description":"Anhelo de Aprendizaje Automático 55 por Andrew Hunt - Un libro completo sobre ciencia de datos.","isbn":"7055146506656","rating":3.4,"price":116.81,"stock":44,"datePublished":"2020-03-31T14:36:35.322Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"Redes de Computadoras: Un Enfoque de Arriba hacia Abajo 56","author":"Martin Kleppmann","category":"Ciencia de Datos","description":"Redes de Computadoras: Un Enfoque de Arriba hacia Abajo 56 por Martin Kleppmann - Un libro completo sobre ciencia de datos.","isbn":"1326073659512","rating":4.1,"price":80.46,"stock":32,"datePublished":"2015-09-19T14:36:35.322Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"El Lenguaje de Programación C 57","author":"Brian Kernighan","category":"Redes","description":"El Lenguaje de Programación C 57 por Brian Kernighan - Un libro completo sobre redes.","isbn":"7138662815209","rating":3.5,"price":138.24,"stock":70,"datePublished":"2024-03-10T14:36:35.322Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"Ciencia de Datos desde Cero 58","author":"Yoshua Bengio","category":"Inteligencia Artificial","description":"Ciencia de Datos desde Cero 58 por Yoshua Bengio - Un libro completo sobre inteligencia artificial.","isbn":"9419968996754","rating":4.8,"price":65.96,"stock":13,"datePublished":"2023-04-22T14:36:35.322Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"El Programador Limpio 59","author":"Dennis Ritchie","category":"Matemáticas","description":"El Programador Limpio 59 por Dennis Ritchie - Un libro completo sobre matemáticas.","isbn":"3034880255245","rating":4.6,"price":120.65,"stock":7,"datePublished":"2020-04-26T14:36:35.322Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"Refactorización 60","author":"Joel Grus","category":"Inteligencia Artificial","description":"Refactorización 60 por Joel Grus - Un libro completo sobre inteligencia artificial.","isbn":"8010855281309","rating":4.8,"price":84.96,"stock":42,"datePublished":"2018-05-20T14:36:35.322Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"Redes de Computadoras: Un Enfoque de Arriba hacia Abajo 61","author":"James Kurose","category":"Matemáticas","description":"Redes de Computadoras: Un Enfoque de Arriba hacia Abajo 61 por James Kurose - Un libro completo sobre matemáticas.","isbn":"4670313644578","rating":4.8,"price":12.55,"stock":39,"datePublished":"2023-09-04T14:36:35.322Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"Inteligencia Artificial: Una Guía para Humanos Pensantes 62","author":"James Kurose","category":"Matemáticas","description":"Inteligencia Artificial: Una Guía para Humanos Pensantes 62 por James Kurose - Un libro completo sobre matemáticas.","isbn":"5663923339178","rating":4.4,"price":147.46,"stock":92,"datePublished":"2020-08-17T14:36:35.322Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"El Programador Limpio 63","author":"Kent Beck","category":"Algoritmos","description":"El Programador Limpio 63 por Kent Beck - Un libro completo sobre algoritmos.","isbn":"6400752789633","rating":4.2,"price":31.0,"stock":62,"datePublished":"2020-08-03T14:36:35.322Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"Código Completo 64","author":"Steve McConnell","category":"Redes","description":"Código Completo 64 por Steve McConnell - Un libro completo sobre redes.","isbn":"7523601545278","rating":3.8,"price":92.6,"stock":84,"datePublished":"2019-04-15T14:36:35.322Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"El Programador Limpio 65","author":"Michael Sipser","category":"Programación","description":"El Programador Limpio 65 por Michael Sipser - Un libro completo sobre programación.","isbn":"2979423370301","rating":3.7,"price":108.11,"stock":52,"datePublished":"2016-08-13T14:36:35.322Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"El Programador Pragmático 66","author":"Eric Matthes","category":"Ingeniería de Software","description":"El Programador Pragmático 66 por Eric Matthes - Un libro completo sobre ingeniería de software.","isbn":"4981065359894","rating":3.0,"price":112.92,"stock":77,"datePublished":"2020-07-22T14:36:35.322Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"El Manual de Diseño de Algoritmos 67","author":"Donald Knuth","category":"Programación","description":"El Manual de Diseño de Algoritmos 67 por Donald Knuth - Un libro completo sobre programación.","isbn":"4332569356233","rating":4.2,"price":142.62,"stock":34,"datePublished":"2018-10-20T14:36:35.322Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"El Manual de Diseño de Algoritmos 68","author":"James Kurose","category":"Redes","description":"El Manual de Diseño de Algoritmos 68 por James Kurose - Un libro completo sobre redes.","isbn":"6999654068929","rating":3.6,"price":78.61,"stock":28,"datePublished":"2015-03-21T14:36:35.322Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"Aprendizaje Profundo 69","author":"Joel Grus","category":"Redes","description":"Aprendizaje Profundo 69 por Joel Grus - Un libro completo sobre redes.","isbn":"5606944477360","rating":4.7,"price":84.63,"stock":20,"datePublished":"2015-11-03T14:36:35.322Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"No Conoces JS 70","author":"James Kurose","category":"Redes","description":"No Conoces JS 70 por James Kurose - Un libro completo sobre redes.","isbn":"2421633014878","rating":4.9,"price":62.9,"stock":50,"datePublished":"2023-06-30T14:36:35.322Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"El Lenguaje de Programación C 71","author":"Andrew Hunt","category":"Bases de Datos","description":"El Lenguaje de Programación C 71 por Andrew Hunt - Un libro completo sobre bases de datos.","isbn":"7917382557312","rating":3.6,"price":125.96,"stock":58,"datePublished":"2020-01-18T14:36:35.323Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"Curso Intensivo de Python 72","author":"Douglas Crockford","category":"Aprendizaje Automático","description":"Curso Intensivo de Python 72 por Douglas Crockford - Un libro completo sobre aprendizaje automático.","isbn":"7398574811764","rating":4.6,"price":42.41,"stock":44,"datePublished":"2017-05-21T14:36:35.323Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"Redes de Computadoras: Un Enfoque de Arriba hacia Abajo 73","author":"Joel Grus","category":"Algoritmos","description":"Redes de Computadoras: Un Enfoque de Arriba hacia Abajo 73 por Joel Grus - Un libro completo sobre algoritmos.","isbn":"1778077017414","rating":3.5,"price":104.53,"stock":29,"datePublished":"2023-03-24T14:36:35.323Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"El Programador Pragmático 74","author":"Steven Skiena","category":"Bases de Datos","description":"El Programador Pragmático 74 por Steven Skiena - Un libro completo sobre bases de datos.","isbn":"8229137450889","rating":3.5,"price":112.19,"stock":95,"datePublished":"2018-05-07T14:36:35.323Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"El Lenguaje de Programación C 75","author":"Douglas Crockford","category":"Aprendizaje Automático","description":"El Lenguaje de Programación C 75 por Douglas Crockford - Un libro completo sobre aprendizaje automático.","isbn":"6936766302006","rating":3.9,"price":130.83,"stock":10,"datePublished":"2024-03-16T14:36:35.323Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"Anhelo de Aprendizaje Automático 76","author":"Yoshua Bengio","category":"Aprendizaje Automático","description":"Anhelo de Aprendizaje Automático 76 por Yoshua Bengio - Un libro completo sobre aprendizaje automático.","isbn":"6557512933029","rating":4.3,"price":33.02,"stock":10,"datePublished":"2022-12-12T14:36:35.323Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"Ciencia de Datos desde Cero 77","author":"Keith Ross","category":"Ciencias de la Computación","description":"Ciencia de Datos desde Cero 77 por Keith Ross - Un libro completo sobre ciencias de la computación.","isbn":"2240112198804","rating":3.8,"price":106.0,"stock":90,"datePublished":"2017-08-14T14:36:35.323Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"El Manual de Diseño de Algoritmos 78","author":"Frederick P. Brooks Jr.","category":"Inteligencia Artificial","description":"El Manual de Diseño de Algoritmos 78 por Frederick P. Brooks Jr. - Un libro completo sobre inteligencia artificial.","isbn":"1756458423070","rating":4.5,"price":78.57,"stock":74,"datePublished":"2020-06-07T14:36:35.323Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"Estructura e Interpretación de Programas de Computadora 79","author":"David Thomas","category":"Programación","description":"Estructura e Interpretación de Programas de Computadora 79 por David Thomas - Un libro completo sobre programación.","isbn":"6517480208778","rating":4.2,"price":59.21,"stock":30,"datePublished":"2023-09-04T14:36:35.323Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"Código Completo 80","author":"Keith Ross","category":"Ciencia de Datos","description":"Código Completo 80 por Keith Ross - Un libro completo sobre ciencia de datos.","isbn":"8329463627332","rating":3.3,"price":10.78,"stock":75,"datePublished":"2019-06-11T14:36:35.323Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"El Arte de la Programación de Computadoras 81","author":"Robert C. Martin","category":"Bases de Datos","description":"El Arte de la Programación de Computadoras 81 por Robert C. Martin - Un libro completo sobre bases de datos.","isbn":"5465508518797","rating":4.6,"price":141.62,"stock":26,"datePublished":"2017-11-18T14:36:35.323Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"El Programador Limpio 82","author":"Steve McConnell","category":"Bases de Datos","description":"El Programador Limpio 82 por Steve McConnell - Un libro completo sobre bases de datos.","isbn":"4401744367634","rating":4.3,"price":72.94,"stock":65,"datePublished":"2016-10-20T14:36:35.323Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"Código Completo 83","author":"Keith Ross","category":"Algoritmos","description":"Código Completo 83 por Keith Ross - Un libro completo sobre algoritmos.","isbn":"3116192904054","rating":3.4,"price":96.19,"stock":48,"datePublished":"2015-11-16T14:36:35.323Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"El Programador Limpio 84","author":"Michael Sipser","category":"Redes","description":"El Programador Limpio 84 por Michael Sipser - Un libro completo sobre redes.","isbn":"9463258867643","rating":3.6,"price":83.21,"stock":22,"datePublished":"2024-08-30T14:36:35.323Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"El Lenguaje de Programación C 85","author":"Ian Goodfellow","category":"Matemáticas","description":"El Lenguaje de Programación C 85 por Ian Goodfellow - Un libro completo sobre matemáticas.","isbn":"9349611675971","rating":3.3,"price":141.27,"stock":30,"datePublished":"2024-11-04T14:36:35.323Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"Ciencia de Datos desde Cero 86","author":"Robert C. Martin","category":"Ciberseguridad","description":"Ciencia de Datos desde Cero 86 por Robert C. Martin - Un libro completo sobre ciberseguridad.","isbn":"5964759675511","rating":4.2,"price":70.86,"stock":60,"datePublished":"2021-06-25T14:36:35.323Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"Refactorización 87","author":"Ian Goodfellow","category":"Bases de Datos","description":"Refactorización 87 por Ian Goodfellow - Un libro completo sobre bases de datos.","isbn":"1652472446735","rating":3.4,"price":59.74,"stock":40,"datePublished":"2016-09-26T14:36:35.323Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"No Conoces JS 88","author":"Douglas Crockford","category":"Ciencia de Datos","description":"No Conoces JS 88 por Douglas Crockford - Un libro completo sobre ciencia de datos.","isbn":"7871372822104","rating":3.6,"price":83.56,"stock":66,"datePublished":"2023-12-08T14:36:35.323Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"El Manual de Diseño de Algoritmos 89","author":"Joel Grus","category":"Inteligencia Artificial","description":"El Manual de Diseño de Algoritmos 89 por Joel Grus - Un libro completo sobre inteligencia artificial.","isbn":"7225225463254","rating":3.1,"price":106.1,"stock":23,"datePublished":"2019-11-28T14:36:35.323Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"Código Limpio 90","author":"Frederick P. Brooks Jr.","category":"Programación","description":"Código Limpio 90 por Frederick P. Brooks Jr. - Un libro completo sobre programación.","isbn":"8518708326843","rating":4.8,"price":54.83,"stock":49,"datePublished":"2024-08-12T14:36:35.323Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"El Programador Limpio 91","author":"Douglas Crockford","category":"Inteligencia Artificial","description":"El Programador Limpio 91 por Douglas Crockford - Un libro completo sobre inteligencia artificial.","isbn":"2905170063481","rating":4.1,"price":100.98,"stock":27,"datePublished":"2017-03-06T14:36:35.323Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"Código Limpio 92","author":"Douglas Crockford","category":"Ciberseguridad","description":"Código Limpio 92 por Douglas Crockford - Un libro completo sobre ciberseguridad.","isbn":"4568215853875","rating":3.4,"price":86.84,"stock":18,"datePublished":"2023-03-04T14:36:35.323Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"Código Completo 93","author":"James Kurose","category":"Redes","description":"Código Completo 93 por James Kurose - Un libro completo sobre redes.","isbn":"6807182605480","rating":3.5,"price":70.45,"stock":20,"datePublished":"2022-06-03T14:36:35.323Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"Código Completo 94","author":"Andrew Hunt","category":"Inteligencia Artificial","description":"Código Completo 94 por Andrew Hunt - Un libro completo sobre inteligencia artificial.","isbn":"6826089584459","rating":3.8,"price":91.31,"stock":7,"datePublished":"2023-12-31T14:36:35.323Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"El Arte de la Programación de Computadoras 95","author":"Michael Sipser","category":"Ciberseguridad","description":"El Arte de la Programación de Computadoras 95 por Michael Sipser - Un libro completo sobre ciberseguridad.","isbn":"8868348919141","rating":4.9,"price":17.59,"stock":92,"datePublished":"2023-06-09T14:36:35.323Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"Redes de Computadoras: Un Enfoque de Arriba hacia Abajo 96","author":"Joel Grus","category":"Algoritmos","description":"Redes de Computadoras: Un Enfoque de Arriba hacia Abajo 96 por Joel Grus - Un libro completo sobre algoritmos.","isbn":"9447162152371","rating":3.6,"price":91.28,"stock":9,"datePublished":"2016-07-23T14:36:35.323Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"Aplicaciones Intensivas en Datos 97","author":"Steve McConnell","category":"Ingeniería de Software","description":"Aplicaciones Intensivas en Datos 97 por Steve McConnell - Un libro completo sobre ingeniería de software.","isbn":"4671361636587","rating":3.5,"price":139.3,"stock":15,"datePublished":"2015-11-04T14:36:35.323Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"El Arte de la Programación de Computadoras 98","author":"Andrew Ng","category":"Algoritmos","description":"El Arte de la Programación de Computadoras 98 por Andrew Ng - Un libro completo sobre algoritmos.","isbn":"5885191199209","rating":4.3,"price":41.37,"stock":6,"datePublished":"2024-05-12T14:36:35.323Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"El Arte de la Programación de Computadoras 99","author":"Joel Grus","category":"Algoritmos","description":"El Arte de la Programación de Computadoras 99 por Joel Grus - Un libro completo sobre algoritmos.","isbn":"4050494872093","rating":3.3,"price":125.59,"stock":51,"datePublished":"2019-01-05T14:36:35.323Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"No Conoces JS 100","author":"Frederick P. Brooks Jr.","category":"Programación","description":"No Conoces JS 100 por Frederick P. Brooks Jr. - Un libro completo sobre programación.","isbn":"3003575692207","rating":4.5,"price":93.95,"stock":59,"datePublished":"2022-05-09T14:36:35.323Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"Código Completo 101","author":"Michael Sipser","category":"Ciencia de Datos","description":"Código Completo 101 por Michael Sipser - Un libro completo sobre ciencia de datos.","isbn":"5908971810073","rating":3.1,"price":88.94,"stock":44,"datePublished":"2021-04-30T14:36:35.323Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"El Arte de la Programación de Computadoras 102","author":"Andrew Hunt","category":"Bases de Datos","description":"El Arte de la Programación de Computadoras 102 por Andrew Hunt - Un libro completo sobre bases de datos.","isbn":"8636689971699","rating":4.6,"price":105.5,"stock":66,"datePublished":"2018-01-14T14:36:35.323Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"Código Limpio 103","author":"Robert C. Martin","category":"Redes","description":"Código Limpio 103 por Robert C. Martin - Un libro completo sobre redes.","isbn":"9248412173701","rating":3.5,"price":80.68,"stock":95,"datePublished":"2017-01-08T14:36:35.323Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"Inteligencia Artificial: Una Guía para Humanos Pensantes 104","author":"Michael Sipser","category":"Ciencia de Datos","description":"Inteligencia Artificial: Una Guía para Humanos Pensantes 104 por Michael Sipser - Un libro completo sobre ciencia de datos.","isbn":"2817619356893","rating":5.0,"price":30.79,"stock":7,"datePublished":"2021-11-27T14:36:35.323Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"El Lenguaje de Programación C 105","author":"Yoshua Bengio","category":"Ciberseguridad","description":"El Lenguaje de Programación C 105 por Yoshua Bengio - Un libro completo sobre ciberseguridad.","isbn":"4659294210621","rating":4.4,"price":83.98,"stock":90,"datePublished":"2020-02-06T14:36:35.323Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"Refactorización 106","author":"Douglas Crockford","category":"Programación","description":"Refactorización 106 por Douglas Crockford - Un libro completo sobre programación.","isbn":"2936716399614","rating":3.1,"price":72.99,"stock":46,"datePublished":"2021-05-05T14:36:35.323Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"El Programador Limpio 107","author":"Ian Goodfellow","category":"Ciberseguridad","description":"El Programador Limpio 107 por Ian Goodfellow - Un libro completo sobre ciberseguridad.","isbn":"7866532812647","rating":3.1,"price":26.73,"stock":53,"datePublished":"2021-11-24T14:36:35.323Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"Estructura e Interpretación de Programas de Computadora 108","author":"Andrew Ng","category":"Ciberseguridad","description":"Estructura e Interpretación de Programas de Computadora 108 por Andrew Ng - Un libro completo sobre ciberseguridad.","isbn":"6254713254684","rating":3.5,"price":26.91,"stock":35,"datePublished":"2020-10-20T14:36:35.323Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"Curso Intensivo de Python 109","author":"Kent Beck","category":"Ciencia de Datos","description":"Curso Intensivo de Python 109 por Kent Beck - Un libro completo sobre ciencia de datos.","isbn":"9473463760299","rating":4.3,"price":111.49,"stock":67,"datePublished":"2023-02-19T14:36:35.323Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"El Programador Pragmático 110","author":"James Kurose","category":"Programación","description":"El Programador Pragmático 110 por James Kurose - Un libro completo sobre programación.","isbn":"3477920943881","rating":4.5,"price":23.66,"stock":52,"datePublished":"2024-04-07T14:36:35.323Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"Anhelo de Aprendizaje Automático 111","author":"James Kurose","category":"Redes","description":"Anhelo de Aprendizaje Automático 111 por James Kurose - Un libro completo sobre redes.","isbn":"6426771076052","rating":3.1,"price":87.14,"stock":93,"datePublished":"2023-03-07T14:36:35.323Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"El Manual de Diseño de Algoritmos 112","author":"Keith Ross","category":"Ciberseguridad","description":"El Manual de Diseño de Algoritmos 112 por Keith Ross - Un libro completo sobre ciberseguridad.","isbn":"6316579065101","rating":3.2,"price":16.12,"stock":99,"datePublished":"2017-05-14T14:36:35.323Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"Introducción a la Teoría de la Computación 113","author":"Brian Kernighan","category":"Matemáticas","description":"Introducción a la Teoría de la Computación 113 por Brian Kernighan - Un libro completo sobre matemáticas.","isbn":"9471750672039","rating":3.7,"price":33.25,"stock":32,"datePublished":"2023-01-30T14:36:35.323Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"Los Elementos del Aprendizaje Estadístico 114","author":"Steven Skiena","category":"Ingeniería de Software","description":"Los Elementos del Aprendizaje Estadístico 114 por Steven Skiena - Un libro completo sobre ingeniería de software.","isbn":"9484718027983","rating":3.3,"price":19.66,"stock":93,"datePublished":"2015-10-07T14:36:35.323Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"Redes de Computadoras: Un Enfoque de Arriba hacia Abajo 115","author":"Dennis Ritchie","category":"Programación","description":"Redes de Computadoras: Un Enfoque de Arriba hacia Abajo 115 por Dennis Ritchie - Un libro completo sobre programación.","isbn":"8028025241729","rating":5.0,"price":72.39,"stock":73,"datePublished":"2015-09-03T14:36:35.324Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"Refactorización 116","author":"Eric Matthes","category":"Inteligencia Artificial","description":"Refactorización 116 por Eric Matthes - Un libro completo sobre inteligencia artificial.","isbn":"6303125276746","rating":4.2,"price":25.99,"stock":34,"datePublished":"2019-06-12T14:36:35.324Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"Estructura e Interpretación de Programas de Computadora 117","author":"Martin Kleppmann","category":"Aprendizaje Automático","description":"Estructura e Interpretación de Programas de Computadora 117 por Martin Kleppmann - Un libro completo sobre aprendizaje automático.","isbn":"4428675610107","rating":4.4,"price":109.29,"stock":56,"datePublished":"2020-01-06T14:36:35.324Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"El Programador Pragmático 118","author":"Douglas Crockford","category":"Ciberseguridad","description":"El Programador Pragmático 118 por Douglas Crockford - Un libro completo sobre ciberseguridad.","isbn":"5530903471679","rating":4.9,"price":142.49,"stock":95,"datePublished":"2016-01-22T14:36:35.324Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"Refactorización 119","author":"Kent Beck","category":"Ciberseguridad","description":"Refactorización 119 por Kent Beck - Un libro completo sobre ciberseguridad.","isbn":"8800088385336","rating":4.0,"price":11.78,"stock":88,"datePublished":"2024-04-12T14:36:35.324Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"Anhelo de Aprendizaje Automático 120","author":"David Thomas","category":"Aprendizaje Automático","description":"Anhelo de Aprendizaje Automático 120 por David Thomas - Un libro completo sobre aprendizaje automático.","isbn":"9548777319820","rating":4.2,"price":60.12,"stock":94,"datePublished":"2023-05-14T14:36:35.324Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"El Programador Limpio 121","author":"Frederick P. Brooks Jr.","category":"Algoritmos","description":"El Programador Limpio 121 por Frederick P. Brooks Jr. - Un libro completo sobre algoritmos.","isbn":"7652882433434","rating":3.2,"price":110.83,"stock":45,"datePublished":"2024-12-11T14:36:35.324Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"Inteligencia Artificial: Una Guía para Humanos Pensantes 122","author":"David Thomas","category":"Matemáticas","description":"Inteligencia Artificial: Una Guía para Humanos Pensantes 122 por David Thomas - Un libro completo sobre matemáticas.","isbn":"1279827307100","rating":3.0,"price":54.16,"stock":100,"datePublished":"2021-07-08T14:36:35.324Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"El Programador Pragmático 123","author":"David Thomas","category":"Ciencia de Datos","description":"El Programador Pragmático 123 por David Thomas - Un libro completo sobre ciencia de datos.","isbn":"9046766389176","rating":3.2,"price":12.97,"stock":23,"datePublished":"2020-01-07T14:36:35.324Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"Aprendizaje Profundo 124","author":"Keith Ross","category":"Redes","description":"Aprendizaje Profundo 124 por Keith Ross - Un libro completo sobre redes.","isbn":"8964594082103","rating":4.4,"price":131.71,"stock":29,"datePublished":"2023-08-29T14:36:35.324Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"El Lenguaje de Programación C 125","author":"James Kurose","category":"Ingeniería de Software","description":"El Lenguaje de Programación C 125 por James Kurose - Un libro completo sobre ingeniería de software.","isbn":"1534445717952","rating":3.2,"price":113.27,"stock":31,"datePublished":"2018-02-26T14:36:35.324Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"Los Elementos del Aprendizaje Estadístico 126","author":"Kent Beck","category":"Algoritmos","description":"Los Elementos del Aprendizaje Estadístico 126 por Kent Beck - Un libro completo sobre algoritmos.","isbn":"2377418231505","rating":3.6,"price":73.72,"stock":5,"datePublished":"2019-08-13T14:36:35.324Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"Código Completo 127","author":"Andrew Hunt","category":"Redes","description":"Código Completo 127 por Andrew Hunt - Un libro completo sobre redes.","isbn":"3587979969586","rating":3.6,"price":55.85,"stock":80,"datePublished":"2023-07-01T14:36:35.324Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"Introducción a la Teoría de la Computación 128","author":"Andrew Hunt","category":"Programación","description":"Introducción a la Teoría de la Computación 128 por Andrew Hunt - Un libro completo sobre programación.","isbn":"1696311846841","rating":4.6,"price":89.87,"stock":73,"datePublished":"2019-07-24T14:36:35.324Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"Anhelo de Aprendizaje Automático 129","author":"Robert C. Martin","category":"Ingeniería de Software","description":"Anhelo de Aprendizaje Automático 129 por Robert C. Martin - Un libro completo sobre ingeniería de software.","isbn":"3782072896963","rating":4.2,"price":47.38,"stock":33,"datePublished":"2024-12-27T14:36:35.324Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"Código Completo 130","author":"Andrew Hunt","category":"Ingeniería de Software","description":"Código Completo 130 por Andrew Hunt - Un libro completo sobre ingeniería de software.","isbn":"8301632579092","rating":3.4,"price":56.78,"stock":72,"datePublished":"2019-04-11T14:36:35.324Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"Curso Intensivo de Python 131","author":"Aaron Courville","category":"Aprendizaje Automático","description":"Curso Intensivo de Python 131 por Aaron Courville - Un libro completo sobre aprendizaje automático.","isbn":"2297378877749","rating":3.0,"price":82.41,"stock":95,"datePublished":"2022-04-18T14:36:35.324Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"El Lenguaje de Programación C 132","author":"Trevor Hastie","category":"Ingeniería de Software","description":"El Lenguaje de Programación C 132 por Trevor Hastie - Un libro completo sobre ingeniería de software.","isbn":"3792063650553","rating":3.6,"price":81.73,"stock":52,"datePublished":"2015-10-06T14:36:35.324Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"Código Completo 133","author":"Douglas Crockford","category":"Redes","description":"Código Completo 133 por Douglas Crockford - Un libro completo sobre redes.","isbn":"7821810517964","rating":3.0,"price":40.59,"stock":83,"datePublished":"2019-11-15T14:36:35.324Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"Aplicaciones Intensivas en Datos 134","author":"Steven Skiena","category":"Programación","description":"Aplicaciones Intensivas en Datos 134 por Steven Skiena - Un libro completo sobre programación.","isbn":"4792494138519","rating":3.4,"price":106.22,"stock":45,"datePublished":"2017-01-21T14:36:35.324Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"Curso Intensivo de Python 135","author":"Andrew Hunt","category":"Inteligencia Artificial","description":"Curso Intensivo de Python 135 por Andrew Hunt - Un libro completo sobre inteligencia artificial.","isbn":"8356967540698","rating":4.9,"price":78.51,"stock":31,"datePublished":"2017-08-18T14:36:35.324Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"Ciencia de Datos desde Cero 136","author":"Donald Knuth","category":"Programación","description":"Ciencia de Datos desde Cero 136 por Donald Knuth - Un libro completo sobre programación.","isbn":"6570087276667","rating":3.3,"price":78.18,"stock":72,"datePublished":"2019-08-11T14:36:35.324Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"Ciencia de Datos desde Cero 137","author":"Steven Skiena","category":"Programación","description":"Ciencia de Datos desde Cero 137 por Steven Skiena - Un libro completo sobre programación.","isbn":"7403792804395","rating":4.4,"price":104.14,"stock":86,"datePublished":"2017-01-17T14:36:35.324Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"El Manual de Diseño de Algoritmos 138","author":"Aaron Courville","category":"Ciencia de Datos","description":"El Manual de Diseño de Algoritmos 138 por Aaron Courville - Un libro completo sobre ciencia de datos.","isbn":"3069887621925","rating":4.7,"price":60.55,"stock":37,"datePublished":"2022-08-21T14:36:35.324Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"El Arte de la Programación de Computadoras 139","author":"Kent Beck","category":"Ciberseguridad","description":"El Arte de la Programación de Computadoras 139 por Kent Beck - Un libro completo sobre ciberseguridad.","isbn":"9875522071066","rating":4.1,"price":33.18,"stock":82,"datePublished":"2022-10-13T14:36:35.324Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"El Programador Limpio 140","author":"Martin Kleppmann","category":"Inteligencia Artificial","description":"El Programador Limpio 140 por Martin Kleppmann - Un libro completo sobre inteligencia artificial.","isbn":"4436172498512","rating":3.3,"price":135.23,"stock":56,"datePublished":"2019-12-07T14:36:35.324Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"El Lenguaje de Programación C 141","author":"Kent Beck","category":"Ciberseguridad","description":"El Lenguaje de Programación C 141 por Kent Beck - Un libro completo sobre ciberseguridad.","isbn":"5721301117334","rating":3.2,"price":74.54,"stock":22,"datePublished":"2017-01-14T14:36:35.324Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"Ciencia de Datos desde Cero 142","author":"Frederick P. Brooks Jr.","category":"Ciencia de Datos","description":"Ciencia de Datos desde Cero 142 por Frederick P. Brooks Jr. - Un libro completo sobre ciencia de datos.","isbn":"4395202195214","rating":3.2,"price":80.78,"stock":16,"datePublished":"2019-06-27T14:36:35.324Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"Aprendizaje Profundo 143","author":"Andrew Hunt","category":"Matemáticas","description":"Aprendizaje Profundo 143 por Andrew Hunt - Un libro completo sobre matemáticas.","isbn":"2206040526221","rating":4.3,"price":107.78,"stock":66,"datePublished":"2017-01-28T14:36:35.324Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"Estructura e Interpretación de Programas de Computadora 144","author":"Aaron Courville","category":"Ingeniería de Software","description":"Estructura e Interpretación de Programas de Computadora 144 por Aaron Courville - Un libro completo sobre ingeniería de software.","isbn":"6077824795290","rating":4.0,"price":131.75,"stock":18,"datePublished":"2016-12-16T14:36:35.324Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"El Lenguaje de Programación C 145","author":"Steven Skiena","category":"Matemáticas","description":"El Lenguaje de Programación C 145 por Steven Skiena - Un libro completo sobre matemáticas.","isbn":"9589670792368","rating":3.9,"price":145.06,"stock":40,"datePublished":"2018-08-05T14:36:35.324Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"Introducción a la Teoría de la Computación 146","author":"Douglas Crockford","category":"Aprendizaje Automático","description":"Introducción a la Teoría de la Computación 146 por Douglas Crockford - Un libro completo sobre aprendizaje automático.","isbn":"6847577354115","rating":3.7,"price":90.61,"stock":46,"datePublished":"2016-08-18T14:36:35.324Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"Refactorización 147","author":"Martin Kleppmann","category":"Redes","description":"Refactorización 147 por Martin Kleppmann - Un libro completo sobre redes.","isbn":"9382906467352","rating":3.3,"price":70.36,"stock":69,"datePublished":"2022-09-06T14:36:35.324Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"El Manual de Diseño de Algoritmos 148","author":"Douglas Crockford","category":"Programación","description":"El Manual de Diseño de Algoritmos 148 por Douglas Crockford - Un libro completo sobre programación.","isbn":"6516654485243","rating":3.8,"price":77.42,"stock":94,"datePublished":"2020-09-05T14:36:35.324Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"Aplicaciones Intensivas en Datos 149","author":"Keith Ross","category":"Algoritmos","description":"Aplicaciones Intensivas en Datos 149 por Keith Ross - Un libro completo sobre algoritmos.","isbn":"3273070611621","rating":3.2,"price":28.3,"stock":56,"datePublished":"2016-05-20T14:36:35.324Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"Inteligencia Artificial: Una Guía para Humanos Pensantes 150","author":"Ian Goodfellow","category":"Bases de Datos","description":"Inteligencia Artificial: Una Guía para Humanos Pensantes 150 por Ian Goodfellow - Un libro completo sobre bases de datos.","isbn":"7963157260543","rating":3.1,"price":70.11,"stock":12,"datePublished":"2024-04-05T14:36:35.324Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"El Programador Pragmático 151","author":"Douglas Crockford","category":"Programación","description":"El Programador Pragmático 151 por Douglas Crockford - Un libro completo sobre programación.","isbn":"6177053557199","rating":3.4,"price":36.22,"stock":32,"datePublished":"2016-08-30T14:36:35.324Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"Los Elementos del Aprendizaje Estadístico 152","author":"Joel Grus","category":"Aprendizaje Automático","description":"Los Elementos del Aprendizaje Estadístico 152 por Joel Grus - Un libro completo sobre aprendizaje automático.","isbn":"4484719415961","rating":4.3,"price":26.7,"stock":7,"datePublished":"2022-02-12T14:36:35.324Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"Curso Intensivo de Python 153","author":"Steven Skiena","category":"Ciencia de Datos","description":"Curso Intensivo de Python 153 por Steven Skiena - Un libro completo sobre ciencia de datos.","isbn":"1502129971399","rating":3.3,"price":136.14,"stock":19,"datePublished":"2020-03-27T14:36:35.324Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"Introducción a la Teoría de la Computación 154","author":"Trevor Hastie","category":"Ingeniería de Software","description":"Introducción a la Teoría de la Computación 154 por Trevor Hastie - Un libro completo sobre ingeniería de software.","isbn":"6611268361931","rating":3.3,"price":32.16,"stock":80,"datePublished":"2024-05-02T14:36:35.324Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"El Lenguaje de Programación C 155","author":"Steven Skiena","category":"Matemáticas","description":"El Lenguaje de Programación C 155 por Steven Skiena - Un libro completo sobre matemáticas.","isbn":"8325546709932","rating":4.8,"price":98.67,"stock":49,"datePublished":"2021-12-21T14:36:35.324Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"Aplicaciones Intensivas en Datos 156","author":"Steven Skiena","category":"Programación","description":"Aplicaciones Intensivas en Datos 156 por Steven Skiena - Un libro completo sobre programación.","isbn":"3894757590245","rating":4.8,"price":53.89,"stock":60,"datePublished":"2017-07-27T14:36:35.324Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"El Programador Pragmático 157","author":"Joel Grus","category":"Ciberseguridad","description":"El Programador Pragmático 157 por Joel Grus - Un libro completo sobre ciberseguridad.","isbn":"2929425016179","rating":3.0,"price":53.08,"stock":84,"datePublished":"2023-10-17T14:36:35.324Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"El Programador Limpio 158","author":"Eric Matthes","category":"Ciencia de Datos","description":"El Programador Limpio 158 por Eric Matthes - Un libro completo sobre ciencia de datos.","isbn":"6700436857349","rating":3.3,"price":62.05,"stock":28,"datePublished":"2015-08-13T14:36:35.324Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"Introducción a la Teoría de la Computación 159","author":"Donald Knuth","category":"Bases de Datos","description":"Introducción a la Teoría de la Computación 159 por Donald Knuth - Un libro completo sobre bases de datos.","isbn":"2797793785118","rating":3.9,"price":144.38,"stock":26,"datePublished":"2018-11-11T14:36:35.324Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"Redes de Computadoras: Un Enfoque de Arriba hacia Abajo 160","author":"Kent Beck","category":"Aprendizaje Automático","description":"Redes de Computadoras: Un Enfoque de Arriba hacia Abajo 160 por Kent Beck - Un libro completo sobre aprendizaje automático.","isbn":"7631002417054","rating":3.6,"price":125.18,"stock":36,"datePublished":"2019-06-11T14:36:35.324Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"Código Limpio 161","author":"Frederick P. Brooks Jr.","category":"Bases de Datos","description":"Código Limpio 161 por Frederick P. Brooks Jr. - Un libro completo sobre bases de datos.","isbn":"9769030126635","rating":3.5,"price":86.06,"stock":39,"datePublished":"2015-08-23T14:36:35.324Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"El Hombre-Mes Mítico 162","author":"Martin Kleppmann","category":"Inteligencia Artificial","description":"El Hombre-Mes Mítico 162 por Martin Kleppmann - Un libro completo sobre inteligencia artificial.","isbn":"7645596304124","rating":5.0,"price":13.03,"stock":43,"datePublished":"2023-08-12T14:36:35.324Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"Refactorización 163","author":"Andrew Ng","category":"Redes","description":"Refactorización 163 por Andrew Ng - Un libro completo sobre redes.","isbn":"4189069123521","rating":4.7,"price":59.65,"stock":10,"datePublished":"2016-06-16T14:36:35.324Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"Ciencia de Datos desde Cero 164","author":"Steve McConnell","category":"Matemáticas","description":"Ciencia de Datos desde Cero 164 por Steve McConnell - Un libro completo sobre matemáticas.","isbn":"2145978671816","rating":4.0,"price":104.84,"stock":7,"datePublished":"2025-01-25T14:36:35.324Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"El Hombre-Mes Mítico 165","author":"Frederick P. Brooks Jr.","category":"Ciberseguridad","description":"El Hombre-Mes Mítico 165 por Frederick P. Brooks Jr. - Un libro completo sobre ciberseguridad.","isbn":"8762083620424","rating":3.2,"price":144.75,"stock":88,"datePublished":"2016-11-01T14:36:35.324Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"Código Limpio 166","author":"Dennis Ritchie","category":"Inteligencia Artificial","description":"Código Limpio 166 por Dennis Ritchie - Un libro completo sobre inteligencia artificial.","isbn":"7646545804693","rating":3.2,"price":107.15,"stock":53,"datePublished":"2022-05-04T14:36:35.324Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"Estructura e Interpretación de Programas de Computadora 167","author":"Steven Skiena","category":"Matemáticas","description":"Estructura e Interpretación de Programas de Computadora 167 por Steven Skiena - Un libro completo sobre matemáticas.","isbn":"8286167335400","rating":4.2,"price":56.96,"stock":15,"datePublished":"2020-09-30T14:36:35.324Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"El Lenguaje de Programación C 168","author":"Douglas Crockford","category":"Ciencias de la Computación","description":"El Lenguaje de Programación C 168 por Douglas Crockford - Un libro completo sobre ciencias de la computación.","isbn":"9312084303536","rating":4.9,"price":88.75,"stock":72,"datePublished":"2021-12-02T14:36:35.325Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"Anhelo de Aprendizaje Automático 169","author":"Andrew Ng","category":"Aprendizaje Automático","description":"Anhelo de Aprendizaje Automático 169 por Andrew Ng - Un libro completo sobre aprendizaje automático.","isbn":"9167038343597","rating":3.8,"price":128.93,"stock":86,"datePublished":"2023-03-23T14:36:35.325Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"El Arte de la Programación de Computadoras 170","author":"Brian Kernighan","category":"Programación","description":"El Arte de la Programación de Computadoras 170 por Brian Kernighan - Un libro completo sobre programación.","isbn":"9957025498055","rating":3.4,"price":20.44,"stock":96,"datePublished":"2018-12-03T14:36:35.325Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"No Conoces JS 171","author":"Keith Ross","category":"Algoritmos","description":"No Conoces JS 171 por Keith Ross - Un libro completo sobre algoritmos.","isbn":"9023374718509","rating":3.2,"price":123.12,"stock":34,"datePublished":"2020-02-09T14:36:35.325Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"Curso Intensivo de Python 172","author":"Steven Skiena","category":"Aprendizaje Automático","description":"Curso Intensivo de Python 172 por Steven Skiena - Un libro completo sobre aprendizaje automático.","isbn":"7985431242241","rating":4.3,"price":117.72,"stock":56,"datePublished":"2017-05-31T14:36:35.325Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"El Hombre-Mes Mítico 173","author":"Donald Knuth","category":"Aprendizaje Automático","description":"El Hombre-Mes Mítico 173 por Donald Knuth - Un libro completo sobre aprendizaje automático.","isbn":"9716601830455","rating":3.1,"price":23.28,"stock":33,"datePublished":"2016-09-17T14:36:35.325Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"Código Limpio 174","author":"Martin Kleppmann","category":"Ciencia de Datos","description":"Código Limpio 174 por Martin Kleppmann - Un libro completo sobre ciencia de datos.","isbn":"4906371689368","rating":4.9,"price":62.81,"stock":90,"datePublished":"2016-04-10T14:36:35.325Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"El Arte de la Programación de Computadoras 175","author":"Steve McConnell","category":"Inteligencia Artificial","description":"El Arte de la Programación de Computadoras 175 por Steve McConnell - Un libro completo sobre inteligencia artificial.","isbn":"5746760201686","rating":4.2,"price":67.55,"stock":47,"datePublished":"2017-11-07T14:36:35.325Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"El Arte de la Programación de Computadoras 176","author":"Martin Kleppmann","category":"Ingeniería de Software","description":"El Arte de la Programación de Computadoras 176 por Martin Kleppmann - Un libro completo sobre ingeniería de software.","isbn":"1545253298087","rating":3.8,"price":89.51,"stock":46,"datePublished":"2022-07-01T14:36:35.325Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"El Manual de Diseño de Algoritmos 177","author":"Dennis Ritchie","category":"Matemáticas","description":"El Manual de Diseño de Algoritmos 177 por Dennis Ritchie - Un libro completo sobre matemáticas.","isbn":"2863799222076","rating":4.5,"price":122.98,"stock":57,"datePublished":"2024-08-08T14:36:35.325Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"Inteligencia Artificial: Una Guía para Humanos Pensantes 178","author":"Eric Matthes","category":"Ciencia de Datos","description":"Inteligencia Artificial: Una Guía para Humanos Pensantes 178 por Eric Matthes - Un libro completo sobre ciencia de datos.","isbn":"3165592617625","rating":3.3,"price":135.5,"stock":79,"datePublished":"2019-10-16T14:36:35.325Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"Refactorización 179","author":"Joel Grus","category":"Matemáticas","description":"Refactorización 179 por Joel Grus - Un libro completo sobre matemáticas.","isbn":"7376016303805","rating":3.4,"price":123.45,"stock":96,"datePublished":"2015-03-15T14:36:35.325Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"Curso Intensivo de Python 180","author":"Andrew Ng","category":"Bases de Datos","description":"Curso Intensivo de Python 180 por Andrew Ng - Un libro completo sobre bases de datos.","isbn":"1521442084859","rating":4.4,"price":146.66,"stock":50,"datePublished":"2024-03-07T14:36:35.325Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"Introducción a la Teoría de la Computación 181","author":"Andrew Hunt","category":"Ciencias de la Computación","description":"Introducción a la Teoría de la Computación 181 por Andrew Hunt - Un libro completo sobre ciencias de la computación.","isbn":"2942396642519","rating":3.7,"price":111.1,"stock":37,"datePublished":"2018-11-23T14:36:35.325Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"Código Limpio 182","author":"Brian Kernighan","category":"Algoritmos","description":"Código Limpio 182 por Brian Kernighan - Un libro completo sobre algoritmos.","isbn":"6596013184928","rating":4.9,"price":85.7,"stock":92,"datePublished":"2018-10-14T14:36:35.325Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"El Hombre-Mes Mítico 183","author":"Aaron Courville","category":"Redes","description":"El Hombre-Mes Mítico 183 por Aaron Courville - Un libro completo sobre redes.","isbn":"5050145050802","rating":4.7,"price":70.99,"stock":60,"datePublished":"2016-03-28T14:36:35.325Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"Introducción a la Teoría de la Computación 184","author":"Donald Knuth","category":"Aprendizaje Automático","description":"Introducción a la Teoría de la Computación 184 por Donald Knuth - Un libro completo sobre aprendizaje automático.","isbn":"1585074547882","rating":4.3,"price":132.49,"stock":80,"datePublished":"2022-04-17T14:36:35.325Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"No Conoces JS 185","author":"Michael Sipser","category":"Matemáticas","description":"No Conoces JS 185 por Michael Sipser - Un libro completo sobre matemáticas.","isbn":"5020855143457","rating":4.5,"price":67.81,"stock":38,"datePublished":"2024-12-27T14:36:35.325Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"El Lenguaje de Programación C 186","author":"Joel Grus","category":"Programación","description":"El Lenguaje de Programación C 186 por Joel Grus - Un libro completo sobre programación.","isbn":"6838413245914","rating":3.5,"price":142.37,"stock":45,"datePublished":"2018-10-10T14:36:35.325Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"Código Completo 187","author":"James Kurose","category":"Redes","description":"Código Completo 187 por James Kurose - Un libro completo sobre redes.","isbn":"7495876406287","rating":4.2,"price":120.74,"stock":78,"datePublished":"2015-07-09T14:36:35.325Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"Redes de Computadoras: Un Enfoque de Arriba hacia Abajo 188","author":"Douglas Crockford","category":"Algoritmos","description":"Redes de Computadoras: Un Enfoque de Arriba hacia Abajo 188 por Douglas Crockford - Un libro completo sobre algoritmos.","isbn":"7252132577622","rating":4.1,"price":28.94,"stock":59,"datePublished":"2021-04-03T14:36:35.325Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"No Conoces JS 189","author":"Steve McConnell","category":"Ingeniería de Software","description":"No Conoces JS 189 por Steve McConnell - Un libro completo sobre ingeniería de software.","isbn":"4083375395421","rating":4.8,"price":66.73,"stock":38,"datePublished":"2018-04-26T14:36:35.325Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"El Manual de Diseño de Algoritmos 190","author":"Aaron Courville","category":"Programación","description":"El Manual de Diseño de Algoritmos 190 por Aaron Courville - Un libro completo sobre programación.","isbn":"9170728461578","rating":4.6,"price":86.63,"stock":52,"datePublished":"2015-12-04T14:36:35.325Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"Anhelo de Aprendizaje Automático 191","author":"Ian Goodfellow","category":"Bases de Datos","description":"Anhelo de Aprendizaje Automático 191 por Ian Goodfellow - Un libro completo sobre bases de datos.","isbn":"4349501674110","rating":3.7,"price":62.36,"stock":36,"datePublished":"2016-01-04T14:36:35.325Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"Ciencia de Datos desde Cero 192","author":"Melanie Mitchell","category":"Ingeniería de Software","description":"Ciencia de Datos desde Cero 192 por Melanie Mitchell - Un libro completo sobre ingeniería de software.","isbn":"6859256177520","rating":3.5,"price":99.56,"stock":90,"datePublished":"2020-05-07T14:36:35.325Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"Estructura e Interpretación de Programas de Computadora 193","author":"Andrew Ng","category":"Ingeniería de Software","description":"Estructura e Interpretación de Programas de Computadora 193 por Andrew Ng - Un libro completo sobre ingeniería de software.","isbn":"8570928517591","rating":4.8,"price":86.78,"stock":36,"datePublished":"2019-11-14T14:36:35.325Z","visibility":true}
+{"index":{"_index":"books"}}
+{"title":"El Programador Pragmático 194","author":"Michael Sipser","category":"Ingeniería de Software","description":"El Programador Pragmático 194 por Michael Sipser - Un libro completo sobre ingeniería de software.","isbn":"8059945740434","rating":3.5,"price":33.54,"stock":6,"datePublished":"2020-03-12T14:36:35.325Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"El Arte de la Programación de Computadoras 195","author":"Steven Skiena","category":"Ciencia de Datos","description":"El Arte de la Programación de Computadoras 195 por Steven Skiena - Un libro completo sobre ciencia de datos.","isbn":"7579025412457","rating":3.9,"price":149.45,"stock":29,"datePublished":"2023-11-23T14:36:35.325Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"Estructura e Interpretación de Programas de Computadora 196","author":"Yoshua Bengio","category":"Aprendizaje Automático","description":"Estructura e Interpretación de Programas de Computadora 196 por Yoshua Bengio - Un libro completo sobre aprendizaje automático.","isbn":"5445043037184","rating":3.1,"price":33.57,"stock":62,"datePublished":"2025-02-11T14:36:35.325Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"Redes de Computadoras: Un Enfoque de Arriba hacia Abajo 197","author":"Martin Kleppmann","category":"Redes","description":"Redes de Computadoras: Un Enfoque de Arriba hacia Abajo 197 por Martin Kleppmann - Un libro completo sobre redes.","isbn":"9319011716193","rating":3.0,"price":52.85,"stock":35,"datePublished":"2021-03-10T14:36:35.325Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"El Lenguaje de Programación C 198","author":"Brian Kernighan","category":"Inteligencia Artificial","description":"El Lenguaje de Programación C 198 por Brian Kernighan - Un libro completo sobre inteligencia artificial.","isbn":"5252773320524","rating":4.2,"price":11.0,"stock":66,"datePublished":"2020-01-24T14:36:35.325Z","visibility":false}
+{"index":{"_index":"books"}}
+{"title":"El Hombre-Mes Mítico 199","author":"Kent Beck","category":"Ciberseguridad","description":"El Hombre-Mes Mítico 199 por Kent Beck - Un libro completo sobre ciberseguridad.","isbn":"3817610170527","rating":4.1,"price":141.17,"stock":5,"datePublished":"2020-07-09T14:36:35.325Z","visibility":true}
