@@ -217,8 +217,6 @@ public class DataAccessRepository {
         // Agregaciones por términos (categoría, autor)
         nativeSearchQueryBuilder.addAggregation(AggregationBuilders
                 .terms("categories").field("category").size(10000));
-//        nativeSearchQueryBuilder.addAggregation(AggregationBuilders
-//                .terms("Autor").field("author").size(10000));
 
         // Agregaciones por rango (calificación, precio)
         nativeSearchQueryBuilder.addAggregation(AggregationBuilders
